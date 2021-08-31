@@ -15,7 +15,7 @@ boton.addEventListener("click", function(){
         wait.className = "d-none";
 
         if (num<2) {
-            foto.setAttribute("src","css/img/menem.jpg");
+            foto.setAttribute("src","css/img/menem.jpeg");
         } else if (num>=98) {
             let kun = document.getElementById("kun");
             kun.className = "d-block";
