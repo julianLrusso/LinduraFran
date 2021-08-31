@@ -1,0 +1,28 @@
+.nav{
+    background-color: darkolivegreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    color: cornsilk;
+}
+
+.maestro {
+    margin-top: 50px;
+    margin-bottom: 350px;
+}
+
+.boton {
+    display: block;
+    background-color: olive;
+    margin: 15px auto;
+}
+.boton:focus {
+    background-color: rgb(111, 148, 38);
+}
+
+#fin {
+    width: 650px;
+    height: 850px;
+    margin-top: 40px;
+}
